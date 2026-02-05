@@ -1,1 +1,13 @@
+Command:
 curl https://api.github.com/repos/PavelsStrelcovs/mcino-Introduction-to-Git-and-GitHub
+
+Output:
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+  "full_name": "PavelsStrelcovs/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
