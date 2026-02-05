@@ -1,0 +1,5 @@
+Command:
+git branch -v
+
+Output:
+* main 6ed58d0 Initial commit: Telegram to MT5 Gold copier
