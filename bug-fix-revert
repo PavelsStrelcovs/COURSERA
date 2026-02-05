@@ -1,1 +1,12 @@
 
+Command:
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+Output:
+StatusCode        : 200
+StatusDescription : OK
+Content           : [
+  {
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/4956"
+  }
+]
